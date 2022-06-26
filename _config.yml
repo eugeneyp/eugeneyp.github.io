@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    Personal site of Eugene Peng, researching into resilient strategies
 twitter_username: eugenep
 github_username: eugeneyp
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
@@ -80,7 +80,7 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: single
@@ -91,8 +91,8 @@ defaults:
       type: projects
     values:
        layout: single
-       author_profile: false
-       share: true
+       author_profile: true
+       share: false
 
 collections:
    projects:
