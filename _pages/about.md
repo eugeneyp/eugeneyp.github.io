@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Eugene is a technology manager who is adept at  connecting innovative ideas with practical delivery. With a background  in mechatronics engineering and Internet of Things, he is experienced  with working with teams across disciplines to design and deliver complex technology solutions. Along with his rigorous analysis and research are his skills in managing engineering teams and customer relationships.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+He obtained his BASc in Mechatronics Engineering from University of  Waterloo. He is also trained in team coaching through ORSC (organization relationship systems coaching). Having recently completed a Master of  Design in Strategic Foresight & Innovation from OCADU, where his  team won an award at the Association of Professional Futurists, he wants to steward complex systems towards sustainable and resilient futures.
