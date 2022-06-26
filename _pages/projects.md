@@ -1,7 +1,11 @@
 ---
 permalink: /projects/
-title: "Projects"
+title: "Past Projects"
 layout: collection
 collection: projects
 ---
+
+#### Strategic Foresight and Systemic Design
+
+
 
