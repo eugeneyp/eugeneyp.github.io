@@ -8,6 +8,8 @@ title: "Foresight-informed Agile for Resilient Product Strategy [Major Research 
 
 The full report can be downloaded [here](http://openresearch.ocadu.ca/id/eprint/3556/1/Pannell-Evans_Caitlin_and_Peng_Eugene_2021_MDes_SFI_MRP.pdf).
 
+![Project Report Cover](/assets/images/mrp_cover.png)
+
 **My Role:** The project was done in partnership with a fellow graduate student researcher, Caitlin Pannell-Evans. Professor Nabil Harfoursh was our advisor.
 
 **Problem and Objective:** 
