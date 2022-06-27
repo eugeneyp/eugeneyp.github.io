@@ -6,6 +6,8 @@ title: "The Future of Democracy [A Strategic Foresight Report]"
 
 **Summary**: This project won the stude	nt award of the year at the Association of Professional Futurists. It was a Strategic Foresight project for the client DemocracyXChange, a Canadian non-profit looking to boost democracy and civic engagement. The project involved a trends analysis, future scenario exploration, "time machine" storytelling, and a strategy playbook. 
 
+![Future of Democracy Report Cover](/assets/images/future_democracy_cover.png)
+
 Full report can be downloaded [here](https://drive.google.com/file/d/192oKy3B9Rj6eTxpoNmqP16F0Cx9kMWmT/view?usp=sharing)
 
 **My Role:** I was in a team of five graduate students. Professors Suzanne Stein, Zan Chandler, and Lorraine Randell were our advisors. 
