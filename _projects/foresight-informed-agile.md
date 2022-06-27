@@ -51,3 +51,8 @@ The full report can be downloaded [here](http://openresearch.ocadu.ca/id/eprint/
 
 - Tools and methodologies used: mixed-method (qualitiative and quantitative) research
 
+**Why I chose this topic**: There is an increasing gap between the increasing complexity of the world around us and our methodologies and ways of doing business. Agile evolved out of the need to tackle more complexity and uncertainty. But it's been more than two decades since the invention of Agile. I wanted to look at whether we need another evolution of our methodologies to be able to manage the new levels of complexity and uncertainty. 
+
+**What were your main contributions**: Caitlin and I had a good partnership. I have better grasp of theory and concepts. She is more grounded and practical, good with working with constraints, and is a kick-ass designer. I also did the numerical analysis of data. I wrote most of the literature review to set the theoretical context. She did the design. We did almost all of the project side-by-side.
+
+**What was most unexpected?** I didn't expect how synergestic Agile and Strategic Foresight are. They closely complement each other. It just made sense to integrate them together. I also didn't expect how generous our participants and experts were in giving their time and thoughtful responses. 
