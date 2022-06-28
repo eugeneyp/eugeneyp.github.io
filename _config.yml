@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Eugene Peng"
   avatar : "/assets/images/profile_eugene.png"
-  bio    : "Designing resilient businesses using strategic foresight and systems thinking"
+  bio    : "Helping businesses and organizations to be resilient and sustainable in the face of complexity and uncertainty."
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"

@@ -1,8 +1,10 @@
 ---
 permalink: /projects/
 title: "Past Projects"
-layout: archive
+layout: single
 collection: projects
+toc: true
+toc_label: "Categories"
 ---
 
 #### Strategic Foresight and Systemic Design
@@ -20,7 +22,7 @@ collection: projects
 [Water Security for Canadian Indigenous]({% link _projects/water_security_indigenous.md %}) 
 
 
-#### Internet of Things Wireless Connectivity
+#### Internet of Things Communication
 
 [Engineering Management of IoT Core Platform Development]({% link _projects/engineering_mgmt_core_platform.md %})
 
@@ -30,6 +32,6 @@ collection: projects
 
 [RIIOT - Industrial IoT Wireless Connectivity Platform]({% link _projects/riiot.md %})
 
-#### Others
+#### Other
 
 [Mindfulness Workshop for Change Agents]({% link _projects/mindfulness_training_change_agents.md %})
