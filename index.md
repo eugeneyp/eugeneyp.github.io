@@ -6,6 +6,12 @@ layout: archive
 author_profile: true
 ---
 
-Eugene is a technology manager who is adept at connecting innovative ideas with practical delivery. With a background in mechatronics engineering and Internet of Things, he is experienced with working with teams across disciplines to design and deliver complex technology solutions. Along with his rigorous analysis and research are his skills in managing engineering teams and customer relationships.
+We are entering the unknown. 
 
-He obtained his BASc in Mechatronics Engineering from University of Waterloo. He is also trained in team coaching through ORSC (organization relationship systems coaching). Having recently completed a Master of Design in Strategic Foresight & Innovation from OCADU, where his team won an award at the Association of Professional Futurists, he wants to steward complex systems towards sustainable and resilient futures.
+As individuals, organizations, and society at large, we are facing disruptions as a result of converging issues such as exponential technology, climate change, resource depletion, peak fossil fuel, and financial bubble. 
+
+How do we navigate all this with curiosity, courage, and hope? 
+
+I'm bringing to these complex times my unique perspective and experiences. I'm hoping you will too, and that there are ways for us to learn and explore together. Complex challenges need diverse voices. 
+
+On this site, you can see some of my past projects and writings. If you would like to reach out, please contact me at eugene.peng at proton.me
