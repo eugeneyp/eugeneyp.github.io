@@ -15,11 +15,9 @@ collection: projects
 
 [Inuit Social Enterprise Strategy Consulting]({% link _projects/inuit_social_enterprise_consulting.md %}) 
 
-[Clean Water for Six Nations]({% link _projects/clean_water_six_nations.md %}) [Solution Design]
-
-[Water Security for Canadian Indigenous]({% link _projects/water_security_indigenous.md %}) [Problem-Finding Report]
-
 [How to Face Complexity: Perspectives from Adult Development Psychology]({% link _projects/how_to_face_complexity.md %}) [Essay]
+
+[Water Security for Canadian Indigenous]({% link _projects/water_security_indigenous.md %}) 
 
 
 #### Internet of Things Wireless Connectivity
