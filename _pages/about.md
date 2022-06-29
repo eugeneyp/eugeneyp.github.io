@@ -3,14 +3,16 @@ permalink: /about/
 title: "About"
 ---
 
-I started my career in small technology startups that deliver solutions for Internet of Things communication. Being one of the leading engineers, I learned my way through many things — hardware, embedded firmware, software, cloud, and security — to deliver innovative solutions to the market. Being in small companies also gave me the opportunity to take on many responsibilities: designing new solution platforms from the ground up, managing teams across disciplines, and managing customer relationships. 
+I have a BASc in Mechatronics Engineering from University of Waterloo and a MDes in Strategic Foresight and Innovation from OCAD University. 
 
-My BASc was in Mechatronics Engineering from University of Waterloo, a multi-disciplinary program that integrated mechanical, electrical, software, and systems engineering. When I woke up to the wider challenges that we collectively face, I did a MDes in Strategic Foresight and Innovation from OCAD University, which uses futures thinking, systems thinking, and design thinking to tackle problems that are more complex than what conventional methods can solve.
+Mechatronics Engineering taught me the systems integration between mechanical, electrical, and software. After graduating, I joined a small technology startup that deliver solutions for Internet of Things communication. Being the first embedded engineer in the company, I designed our core product platforms from the ground up. 
 
-On the side, I explored human development and spirituality through meditation, authentic relating and somatic-based therapy. I facilitated workshops on mindfulness, authentic relating, and Circling (a connection-building practice). I was trained in team coaching through ORSC (organization relationship systems coaching). I am also a student of Christian contemplative wisdom through the teacher Cynthia Bourgeault, and a student of Taijiquan (Tai Chi Chuan) through Sifu Adam Mizner at Heaven Man Earth. 
+It was a great opportunity to learn my way through different areas -- hardware, embedded firmware, software, cloud, and security. And as the company grew, I grew into managing engineering teams and customer relationships. I also participated in the editing and testing of industry standards for IoT communication
 
-In summary, I bring a unique perspective that mixes experiences from Eastern and Western mindsets, modern engineering and ancient spirituality, rational individuated mind and embodied intimate relationships. 
+On the side, I explored human development and spirituality. I facilitated workshops on mindfulness, authentic relating, and Circling (a connection-building practice). I did trainings in team coaching through ORSC (organization relationships systems coaching). I participated in as many cutting-edge workshops on human development as I could find.
 
-I want to bring curiosity, courage, creativity, and most of all, connectedness in seeking new possibilities in how we can be resilient and sustainable in these complex and uncertain times. 
+Then I woke up to the fact that our current system is unsustainable. So I enrolled into the Strategic Foresight and Innovation program at OCADU. Here I learned how to use futures thinking, systems thinking, and design thinking to tackle problems that are more complex than what conventional methods can solve. 
 
-Please say hello at: eugene.peng at proton.me
+I am interested in how we can expand our conversations and to bring in all that we are — the different ways of seeing, thinking, and relating — to the complex challenges of our time. 
+
+Say hello at: eugene.peng at proton.me

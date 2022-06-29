@@ -14,4 +14,5 @@ How do we navigate all this with curiosity, courage, and hope?
 
 I'm bringing to these complex times my unique perspective and experiences. I'm hoping you will too, and that there are ways for us to learn and explore together. Complex challenges need diverse voices. 
 
-On this site, you can see some of my past projects and writings. If you would like to reach out, please contact me at eugene.peng at proton.me
+You can see my [past projects]({% link _pages/projects.md %}) and read more [about me]({% link _pages/about.md %}). To reach out, please contact me at eugene.peng at proton.me
+
