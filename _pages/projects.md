@@ -11,6 +11,8 @@ toc_label: "Categories"
 
 [Foresight-informed Agile for Resilient Product Strategy]({% link _projects/foresight-informed-agile.md %}) [Major Research Project]
 
+[Quick Guide to Strategic Foresight]({% link _projects/quick_guide_foresight.md %}) [Presentation]
+
 [The Future of Democracy]({% link _projects/future_of_democracy.md %}) [Strategic Foresight Report] - *winner of 2021 master student awards at Association of Professional Futurists*
 
 [Instagram and Mental Health]({% link _projects/instagram_mental_health.md %}) [Systems Synthesis Map]
