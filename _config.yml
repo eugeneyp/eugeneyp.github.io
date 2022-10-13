@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Eugene Peng"
   avatar : "/assets/images/profile_eugene.png"
-  bio    : "Helping businesses and organizations to be resilient and sustainable in the face of complexity and uncertainty."
+  bio    : "Research and design of resilient strategies in the face of complexity and uncertainty."
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
@@ -99,7 +99,7 @@ defaults:
       type: writings
     values:
        layout: single
-       author_profile: true
+       author_profile: false
        share: false
 
 collections:
@@ -107,7 +107,8 @@ collections:
       output: true
       permalink: /:collection/:path/
    writings:
-      permalink: /:collection/:path/
+      output: true
+      permalink: /:path/
 
 category_archive:
   type: liquid
