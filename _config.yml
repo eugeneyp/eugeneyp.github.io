@@ -93,6 +93,14 @@ defaults:
        layout: single
        author_profile: true
        share: false
+  # _writings
+  - scope:
+      path: ""
+      type: writings
+    values:
+       layout: single
+       author_profile: true
+       share: false
 
 collections:
    projects:
