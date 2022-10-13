@@ -98,6 +98,8 @@ collections:
    projects:
       output: true
       permalink: /:collection/:path/
+   writings:
+      permalink: /:collection/:path/
 
 category_archive:
   type: liquid
