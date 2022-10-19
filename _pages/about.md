@@ -3,16 +3,24 @@ permalink: /about/
 title: "About"
 ---
 
-I have a BASc in Mechatronics Engineering from University of Waterloo and a MDes in Strategic Foresight and Innovation from OCAD University. 
+I have a multi-disciplinary background in engineering management, strategic foresight and complex systems thinking. 
 
-Mechatronics Engineering taught me the systems integration between mechanical, electrical, and software. After graduating, I joined a small technology startup that deliver solutions for Internet of Things communication. Being the first embedded engineer in the company, I designed our core product platforms from the ground up. 
+After graduating with a Bachelors of Applied Science in Mechatronics Engineering from University of Waterloo, I joined an Internet of Things (IoT) startup as the lead embedded engineer. 
 
-It was a great opportunity to learn my way through different areas -- hardware, embedded firmware, software, cloud, and security. And as the company grew, I grew into managing engineering teams and customer relationships. I also participated in the editing and testing of industry standards for IoT communication
+- Designed and developed the IoT communication platforms RapidConnect and RIIoT, which were used to integrate IoT wireless communication into hundreds of products and services. 
+- Grew to managing teams, projects, and programs; delivering IoT solutions for Fortune 500 businesses
+- Solving IoT problems by learning quickly at the intersection of software, hardware, firmware, network protocols, cloud, mobile, web, security, and user experience.
 
-On the side, I explored human development and spirituality. I facilitated workshops on mindfulness, authentic relating, and Circling (a connection-building practice). I did trainings in team coaching through ORSC (organization relationships systems coaching). I participated in as many cutting-edge workshops on human development as I could find.
+Then I completed a Master of Design in Strategic Foresight & Innovation, which applies complexity systems thinking, strategic foresight, and design thinking to tackle problems that are more complex than what typical business approaches can solve. Example projects I worked on:
 
-Then I woke up to the fact that our current system is unsustainable. So I enrolled into the Strategic Foresight and Innovation program at OCADU. Here I learned how to use futures thinking, systems thinking, and design thinking to tackle problems that are more complex than what conventional methods can solve. 
+- Winning the top award at the Association of Professional Futurists with a strategic foresight report for a civic non-profit
+- Business and strategy consulting for an Inuit social enterprise
+- Final research project: how to develop resilient product strategies by combining strategic foresight and agile methodology
 
-I am interested in how we can expand our conversations and to bring in all that we are — the different ways of seeing, thinking, and relating — to the complex challenges of our time. 
+And I care about people and team dynamics:
 
-Say hello at: eugene.peng at proton.me
+- Completed a program in Organization Relationship System Coaching (ORSC) on how to resolve conflicts
+- Designed and facilitated a Mindfulness workshop for change leaders—how to be present to oneself and others
+- Lived and worked across North America, Europe, and Asia—able to appreciate and value different perspectives
+
+Contact: eugene.peng at pm.me
