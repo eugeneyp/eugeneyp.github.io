@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Eugene Peng"
-  avatar : "/assets/images/profile_eugene.png"
+  avatar : "/assets/images/profile-pic-industrial-square.png"
   bio    : "Research and design of resilient strategies in the face of complexity and uncertainty."
   links:
     - label: "LinkedIn"
